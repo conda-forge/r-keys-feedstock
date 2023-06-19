@@ -1,11 +1,11 @@
-About r-keys
-============
+About r-keys-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-keys-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/r4fun/keys
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-keys-feedstock/blob/main/LICENSE.txt)
 
 Summary: Assign and listen to keyboard shortcuts in 'shiny' using the 'Mousetrap' Javascript library.
 
