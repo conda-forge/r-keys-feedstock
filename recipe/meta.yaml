@@ -43,14 +43,12 @@ about:
   license: Apache-2.0
   summary: Assign and listen to keyboard shortcuts in 'shiny' using the 'Mousetrap' Javascript
     library.
-  license_family: APACHE
   license_file: LICENSE.md
 
 extra:
   recipe-maintainers:
     - conda-forge/r
     - hechth
-    - tyluRp
 
 # Package: keys
 # Title: Keyboard Shortcuts for 'shiny'
